@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mario Calvo - Conciencia</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:url('portada.jpg') no-repeat center center fixed;
+    background-size:cover;
+    color:white;<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mario Calvo - Conciencia</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:url('portada.jpg') no-repeat center center fixed;
+    background-size:cover;
+    color:white;
+    text-align:center;
+}
+.overlay{
+    background:rgba(0,0,0,0.85);
+    padding:40px 20px;
+}
+h1{font-size:50px;margin:0;}
+h2{font-style:italic;font-weight:normal;margin-top:5px;}
+.track{margin:15px auto;max-width:500px;}
+audio{width:100%;}
+.price{font-size:28px;margin:20px 0;}
+.button{
+    display:inline-block;
+    margin:10px;
+    padding:15px 30px;
+    font-size:18px;
+    border-radius:8px;
+    text-decoration:none;
+    color:white;
+}
+.paypal{background:#0070ba;}
+.nequi{background:#E4007C;}
+.whatsapp{background:#25D366;}
+.footer{margin-top:40px;font-size:14px;}
+</style>
+</head>
+
+<body>
+<div class="overlay">
+
+<h1>MARIO CALVO</h1>
+<h2>Conciencia</h2>
+
+<div class="price">$25.000 COP</div>
+
+<h3>Escucha un avance:</h3>
+
+<div class="track">
+<p>1. Hielo y Fuego</p>
+<audio controls src="previews/hielo.mp3"></audio>
+</div>
+
+<div class="track">
+<p>2. Alma en Dos</p>
+<audio controls src="previews/alma.mp3"></audio>
+</div>
+
+<div class="track">
+<p>3. Esencia de Estrellas</p>
+<audio controls src="previews/esencia.mp3"></audio>
+</div>
+
+<div class="track">
+<p>4. En Tu Plano</p>
+<audio controls src="previews/plano.mp3"></audio>
+</div>
+
+<div class="track">
+<p>5. En un Día Gris</p>
+<audio controls src="previews/dia1.mp3"></audio>
+</div>
+
+<div class="track">
+<p>6. Perderme en Tu Soledad</p>
+<audio controls src="previews/soledad.mp3"></audio>
+</div>
+
+<div class="track">
+<p>7. Cuando Te Vi</p>
+<audio controls src="previews/cuando.mp3"></audio>
+</div>
+
+<div class="track">
+<p>8. Mercy</p>
+<audio controls src="previews/mercy.mp3"></audio>
+</div>
+
+<div class="track">
+<p>9. Día Gris</p>
+<audio controls src="previews/dia2.mp3"></audio>
+</div>
+
+<div class="track">
+<p>10. Nunca</p>
+<audio controls src="previews/nunca.mp3"></audio>
+</div>
+
+<h3>Compra el álbum</h3>
+
+<a class="button paypal"
+href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=urudelo0483@gmail.com&item_name=Album+Conciencia+-+Mario+Calvo&amount=25000&currency_code=COP"
+target="_blank">
+Pagar con PayPal
+</a>
+
+<br>
+
+<a class="button nequi" href="gracias.html">
+Ya pagué por Nequi (3207571094)
+</a>
+
+<br>
+
+<a class="button whatsapp"
+href="https://wa.me/573207571094?text=Hola%20Mario%20Calvo,%20quiero%20comprar%20el%20%C3%A1lbum%20Conciencia"
+target="_blank">
+Comprar por WhatsApp
+</a>
+
+<div class="footer">
+Obtén el álbum completo después del pago.
+</div>
+
+</div>
+</body>
+</html>
+    text-align:center;
+}
+.overlay{
+    background:rgba(0,0,0,0.85);
+    padding:40px 20px;
+}
+h1{font-size:50px;margin:0;}
+h2{font-style:italic;font-weight:normal;margin-top:5px;}
+.track{margin:15px auto;max-width:500px;}
+audio{width:100%;}
+.price{font-size:28px;margin:20px 0;}
+.button{
+    display:inline-block;
+    margin:10px;
+    padding:15px 30px;
+    font-size:18px;
+    border-radius:8px;
+    text-decoration:none;
+    color:white;
+}
+.paypal{background:#0070ba;}
+.nequi{background:#E4007C;}
+.whatsapp{background:#25D366;}
+.footer{margin-top:40px;font-size:14px;}
+</style>
+</head>
+
+<body>
+<div class="overlay">
+
+<h1>MARIO CALVO</h1>
+<h2>Conciencia</h2>
+
+<div class="price">$25.000 COP</div>
+
+<h3>Escucha un avance:</h3>
+
+<div class="track">
+<p>1. Hielo y Fuego</p>
+<audio controls src="previews/hielo.mp3"></audio>
+</div>
+
+<div class="track">
+<p>2. Alma en Dos</p>
+<audio controls src="previews/alma.mp3"></audio>
+</div>
+
+<div class="track">
+<p>3. Esencia de Estrellas</p>
+<audio controls src="previews/esencia.mp3"></audio>
+</div>
+
+<div class="track">
+<p>4. En Tu Plano</p>
+<audio controls src="previews/plano.mp3"></audio>
+</div>
+
+<div class="track">
+<p>5. En un Día Gris</p>
+<audio controls src="previews/dia1.mp3"></audio>
+</div>
+
+<div class="track">
+<p>6. Perderme en Tu Soledad</p>
+<audio controls src="previews/soledad.mp3"></audio>
+</div>
+
+<div class="track">
+<p>7. Cuando Te Vi</p>
+<audio controls src="previews/cuando.mp3"></audio>
+</div>
+
+<div class="track">
+<p>8. Mercy</p>
+<audio controls src="previews/mercy.mp3"></audio>
+</div>
+
+<div class="track">
+<p>9. Día Gris</p>
+<audio controls src="previews/dia2.mp3"></audio>
+</div>
+
+<div class="track">
+<p>10. Nunca</p>
+<audio controls src="previews/nunca.mp3"></audio>
+</div>
+
+<h3>Compra el álbum</h3>
+
+<a class="button paypal"
+href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=urudelo0483@gmail.com&item_name=Album+Conciencia+-+Mario+Calvo&amount=25000&currency_code=COP"
+target="_blank">
+Pagar con PayPal
+</a>
+
+<br>
+
+<a class="button nequi" href="gracias.html">
+Ya pagué por Nequi (3207571094)
+</a>
+
+<br>
+
+<a class="button whatsapp"
+href="https://wa.me/573207571094?text=Hola%20Mario%20Calvo,%20quiero%20comprar%20el%20%C3%A1lbum%20Conciencia"
+target="_blank">
+Comprar por WhatsApp
+</a>
+
+<div class="footer">
+Obtén el álbum completo después del pago.
+</div>
+
+</div>
+</body>
+</html>
